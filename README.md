@@ -1,6 +1,8 @@
 # SPPG Distribution Maps
 
-Dikarenakan rasa penasaran + gabut saya serta tidak adanya kepastian mengenai peta sebaran lokasi sppg di Indonesia (iya, fitur peta di website resmi tidak kunjung terbit <html>&#x1F639;</html>) maka dengan sangat malas saya membuat sendiri peta sebaran sppg ini meskipun susah payah mendapatkan sumbernya.
+![map_highlight](docs/map_highlight.png)
+
+Dikarenakan rasa gabut saya serta tidak adanya kepastian mengenai peta sebaran lokasi sppg di Indonesia (fitur peta di website resmi tidak kunjung terbit <html>&#x1F639;</html>) maka dengan sangat malas saya membuat sendiri peta sebaran sppg ini meskipun susah payah mendapatkan sumbernya.
 Btw ini sourcenya: https://auditsppg.id/
 
 ## Live site
